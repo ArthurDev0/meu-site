@@ -1,0 +1,204 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body {
+
+    background: #FBF5F5;
+    font-family: sans-serif;
+
+}
+
+#area-cabecalho {
+
+    background-color: #f7b600;
+    padding-bottom: 10px;
+
+}
+
+#area-logo {
+
+    font-size: 2.1em;
+    text-align: center;
+    padding: 40px;
+
+
+}
+
+#area-menu {
+
+    text-align: center;
+    margin-bottom: -10px;
+    padding-bottom: 42px;
+
+}
+
+#conteudo-recentes {
+
+    margin: 10px;
+
+}
+
+#area-principal {
+
+    width: 960px;
+    margin: 0 auto;
+}
+
+#area-postagens {
+
+    width: 660px;
+    float: left;
+    padding: 20px;
+    margin-bottom: 15px;
+    
+}
+
+#area-postagens h1 {
+
+    color: #f7b600;
+
+}
+
+#area-lateral {
+
+    width: 260px;
+    height: 200px;
+
+    float: right;
+    margin: -10px;
+
+}
+
+#topico {
+
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+
+    background-color: #d8d8d8;
+}
+
+#area-categorias {
+
+    width: 260px;
+    height: 138px;
+
+    float: right;
+    margin-left: 10px;
+    margin-right: -10px;
+    margin-top: 30px;
+
+    background: white;
+
+}
+
+#topico-categorias {
+
+    font-size: 20px;
+    color: black;
+    background: gray;
+
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    
+
+}
+
+#area-postagens , #area-lateral {
+
+    background: white;
+    margin-top: 16px;
+
+    
+}
+
+.direitos {
+
+    background: #f7b600;
+    clear: both;
+    padding: 15px;
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 5px;
+
+
+}
+
+#conteudo-recentes p {
+
+    margin-top: -3px;
+
+}
+
+#conteudo-recentes a {
+
+    color: #f7b600;
+
+}
+
+#categorias a {
+
+    margin-left: 10px;
+    font-size: 1.1em;
+    color: #f7b600;
+
+}
+
+a {
+
+    text-decoration: none;
+    color: #f7b600;
+    font-size: 1.0em;
+
+}
+
+
+#area-menu a:link, #area-menu a:visited {
+
+    font-size: 1.3em;
+    padding: 10px;
+    color: white;
+    margin: 1px;
+    padding-right: px;
+
+
+}
+
+#area-menu a:hover {
+
+    color: #f7b600;
+    background: white;
+
+}
+
+.branco {
+
+    color: white;
+
+}
+
+img {
+
+    margin-top: 10px;
+
+}
+
+span {
+
+    padding-left: 5px;
+
+}
+
+
